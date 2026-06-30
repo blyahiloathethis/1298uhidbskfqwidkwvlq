@@ -546,3 +546,11 @@ max-width: 1200px;
 .dark-mode .notion-table-of-contents-active-item {
   color: #EBEBEB !important;
 }
+
+span.notion-blue {
+  color: #2662bb !important;
+}
+
+span.notion-green {
+  color: #67975F !important;
+}
