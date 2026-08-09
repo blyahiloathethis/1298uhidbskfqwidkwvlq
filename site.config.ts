@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Vmvydglu',
+  name: 'QWRlbGVf',
   domain: 'r1999-vmvydglu.vercel.app',
   author: 'Q',
 
