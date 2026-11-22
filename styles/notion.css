@@ -568,3 +568,22 @@ span.notion-blue {
 span.notion-teal {
   color: #67975F !important;
 }
+
+@media only screen and (max-width: 768px) {
+  .notion-page-cover {
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: cover !important;
+  }
+
+  .notion-page-icon-wrapper,
+  .notion-page-icon,
+  .notion-page-icon img {
+    width: 72px !important;
+    height: 72px !important;
+  }
+
+  .notion-page-icon-wrapper {
+    margin-top: -36px !important;
+  }
+}
