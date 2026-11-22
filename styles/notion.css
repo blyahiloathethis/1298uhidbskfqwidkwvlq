@@ -583,7 +583,7 @@ span.notion-teal {
     height: 72px !important;
   }
 
-  .notion-page-icon-wrapper {
-    margin-top: -64px !important;
+  .notion-page-icon {
+    margin-top: -56px !important;
   }
 }
