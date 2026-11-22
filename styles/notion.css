@@ -291,20 +291,6 @@ max-width: 1200px;
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .notion-page-cover-wrapper {
-    height: 140px !important;
-    min-height: 0 !important;
-  }
-
-  .notion-page-cover {
-    height: 100% !important;
-    width: 100% !important;
-    object-fit: cover !important;
-    object-position: center 50% !important;
-  }
-}
-
 .notion-block-ab9a258d6cf444f3bb40dc2600feae91 .notion-page-link {
   justify-content: center;
   padding: 2em;
@@ -567,23 +553,4 @@ span.notion-blue {
 
 span.notion-teal {
   color: #67975F !important;
-}
-
-@media only screen and (max-width: 768px) {
-  .notion-page-cover {
-    height: 100% !important;
-    width: 100% !important;
-    object-fit: cover !important;
-  }
-
-  .notion-page-icon-wrapper,
-  .notion-page-icon,
-  .notion-page-icon img {
-    width: 72px !important;
-    height: 72px !important;
-  }
-
-  .notion-page-icon {
-    margin-top: 36px !important;
-  }
 }
